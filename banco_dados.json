@@ -1,0 +1,36 @@
+{
+    "numero_conta": "00000-0",
+    "saldo": 1219.0,
+    "extrato": [
+        {
+            "data_hora": "26/05/2025 - 18:21:25",
+            "tipo": "Dep\u00f3sito",
+            "valor": 1000.0
+        },
+        {
+            "data_hora": "26/05/2025 - 18:21:55",
+            "tipo": "Saque",
+            "valor": 234.0
+        },
+        {
+            "data_hora": "26/05/2025 - 18:22:04",
+            "tipo": "Dep\u00f3sito",
+            "valor": 600.0
+        },
+        {
+            "data_hora": "26/05/2025 - 18:22:17",
+            "tipo": "Saque",
+            "valor": 789.0
+        },
+        {
+            "data_hora": "26/05/2025 - 18:22:25",
+            "tipo": "Dep\u00f3sito",
+            "valor": 987.0
+        },
+        {
+            "data_hora": "26/05/2025 - 18:23:30",
+            "tipo": "Transfer\u00eancia para54321-Y",
+            "valor": 345.0
+        }
+    ]
+}

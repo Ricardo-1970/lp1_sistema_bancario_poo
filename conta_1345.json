@@ -1,0 +1,36 @@
+{
+    "numero_conta": "1345",
+    "saldo": 2356.0,
+    "extrato": [
+        {
+            "data_hora": "26/05/2025 - 19:32:53",
+            "tipo": "Dep\u00f3sito",
+            "valor": 1456.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:32:59",
+            "tipo": "Saque",
+            "valor": 100.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:33:05",
+            "tipo": "Dep\u00f3sito",
+            "valor": 123.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:33:08",
+            "tipo": "Saque",
+            "valor": 345.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:33:13",
+            "tipo": "Dep\u00f3sito",
+            "valor": 1456.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:33:34",
+            "tipo": "Transfer\u00eancia para 12345-6",
+            "valor": 234.0
+        }
+    ]
+}

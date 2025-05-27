@@ -1,0 +1,11 @@
+{
+    "numero_conta": "54321-Y",
+    "saldo": 345.0,
+    "extrato": [
+        {
+            "data_hora": "26/05/2025 - 18:23:30",
+            "tipo": "Dep\u00f3sito",
+            "valor": 345.0
+        }
+    ]
+}

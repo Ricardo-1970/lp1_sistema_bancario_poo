@@ -1,0 +1,51 @@
+{
+    "numero_conta": "32542-1",
+    "saldo": 1933.0,
+    "extrato": [
+        {
+            "data_hora": "26/05/2025 - 19:28:02",
+            "tipo": "Dep\u00f3sito",
+            "valor": 1300.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:28:19",
+            "tipo": "Transfer\u00eancia para 12345-6",
+            "valor": 234.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:38:13",
+            "tipo": "Dep\u00f3sito",
+            "valor": 456.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:38:16",
+            "tipo": "Saque",
+            "valor": 234.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:38:20",
+            "tipo": "Dep\u00f3sito",
+            "valor": 567.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:38:23",
+            "tipo": "Dep\u00f3sito",
+            "valor": 123.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:38:28",
+            "tipo": "Saque",
+            "valor": 67.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:38:31",
+            "tipo": "Saque",
+            "valor": 23.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:38:34",
+            "tipo": "Dep\u00f3sito",
+            "valor": 45.0
+        }
+    ]
+}

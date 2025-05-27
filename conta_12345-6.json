@@ -1,0 +1,16 @@
+{
+    "numero_conta": "12345-6",
+    "saldo": 468.0,
+    "extrato": [
+        {
+            "data_hora": "26/05/2025 - 19:28:19",
+            "tipo": "Dep\u00f3sito",
+            "valor": 234.0
+        },
+        {
+            "data_hora": "26/05/2025 - 19:33:34",
+            "tipo": "Dep\u00f3sito",
+            "valor": 234.0
+        }
+    ]
+}
